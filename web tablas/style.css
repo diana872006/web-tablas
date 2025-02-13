@@ -1,0 +1,20 @@
+table {
+    border: red 1px solid;
+
+}
+
+table.azul {
+    border: blue 3px solid;
+
+}
+
+table.verde {
+    border: rgb(63, 145, 26) 1px solid;
+    width: 50%;
+    text-align: center;
+}
+
+td.verde {
+    border: rgb(63, 145, 26) 1px solid;
+
+}
